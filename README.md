@@ -1,7 +1,7 @@
 # Clock Angle
 
 <figure>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVidDN6M2hldzZ5ZzRqdDdycGxvbW10Z2toMzF2eWs0MnhjYzVpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKggqtzMsD9OW5HPzV/giphy.gif" alt="Clock with hands moving" style="width:50%">>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVidDN6M2hldzZ5ZzRqdDdycGxvbW10Z2toMzF2eWs0MnhjYzVpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKggqtzMsD9OW5HPzV/giphy.gif" alt="Clock with hands moving" style="width:50%">
   <figcaption>Source: <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVidDN6M2hldzZ5ZzRqdDdycGxvbW10Z2toMzF2eWs0MnhjYzVpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKggqtzMsD9OW5HPzV/giphy.gif"> Tenor</a> </figcaption>
 </figure>
 
